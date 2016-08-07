@@ -15,7 +15,7 @@ but we will cross that bridge when we get to it.
 */
 
 /*
-Section Ia: The Stata GUI
+Section Ia: Stata GUI
 When you first open Stata, you will see four "screens" of varying sizes. The one
 in the middle is where the results from your executed code will show up. You
 cannot edit it directly, but you can copy tables and images from it. The screen
